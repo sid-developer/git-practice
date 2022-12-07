@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <div class="login-box">
   <h2>Login</h2>
   <form>
