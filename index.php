@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <div class="login-box">
   <h2>Login</h2>
-  <form>
+  <form id="frmLogin">
     <div class="user-box">
       <input type="text" name="username" id="username" required="">
       <label>Username</label>
