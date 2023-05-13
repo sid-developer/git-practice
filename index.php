@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
 <div class="login-box">
-  <h2>Login</h2>
+  <h2>Login Page</h2>
   <form id="frmLogin">
     <div class="user-box">
       <input type="text" name="username" required="">
